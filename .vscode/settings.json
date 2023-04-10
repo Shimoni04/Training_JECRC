@@ -1,0 +1,6 @@
+{
+    "editor.linkedEditing": true,
+    "emmet.includeLanguages": {
+        "postcss": "css"
+    }
+}

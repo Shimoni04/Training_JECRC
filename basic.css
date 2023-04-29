@@ -2,24 +2,24 @@ body {
     background-color: #E8DAEF;
 }
 
-/* 
+
 img {
     width: 300px;
 }
 
 p {
     color: #A04000;
+    font-family: 'Sedgwick Ave Display', cursive;
 }
 .img{
     background-color: #A04000 ;
     border-radius: 100px;
-    height: 5
-    00px;
+    height: 500px;
 }
 .text:hover{
 background-color: #A04000;
 color: azure;
-} */
+}
 .hw {
     height: 100px;
     width: 100px;

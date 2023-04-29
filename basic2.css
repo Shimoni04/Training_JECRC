@@ -1,0 +1,255 @@
+/*First Section*/
+body {
+    background-image: linear-gradient(25deg,
+            hsl(313deg 51% 32%) 0%,
+            hsl(315deg 50% 34%) 3%,
+            hsl(318deg 48% 35%) 7%,
+            hsl(320deg 47% 37%) 10%,
+            hsl(322deg 47% 38%) 14%,
+            hsl(323deg 46% 40%) 17%,
+            hsl(325deg 45% 41%) 21%,
+            hsl(326deg 45% 42%) 24%,
+            hsl(327deg 43% 44%) 28%,
+            hsl(328deg 42% 46%) 32%,
+            hsl(329deg 41% 48%) 36%,
+            hsl(330deg 40% 50%) 41%,
+            hsl(331deg 43% 52%) 45%,
+            hsl(331deg 45% 54%) 50%,
+            hsl(332deg 48% 56%) 55%,
+            hsl(334deg 50% 59%) 60%,
+            hsl(338deg 52% 64%) 65%,
+            hsl(341deg 55% 68%) 70%,
+            hsl(345deg 60% 72%) 76%,
+            hsl(349deg 65% 76%) 82%,
+            hsl(353deg 73% 80%) 88%,
+            hsl(356deg 84% 83%) 94%,
+            hsl(0deg 100% 86%) 100%);
+    margin: 0px;
+}
+
+h1 {
+    color: #6C3483;
+    display: block;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+h3 {
+    color: #6C3483;
+    display: block ̰;
+    font-family: 'DynaPuff', cursive;
+    font-size: 36px;
+}
+
+.top-container {
+    height: 400px;
+    padding-top: 200px;
+    text-align: center;
+}
+
+.c1 {
+    position: absolute;
+    right: 400px;
+    top: 100px;
+    width: 120px;
+}
+
+.c2 {
+    left: 180px;
+    position: absolute;
+    top: 300px;
+    width: 200px;
+}
+
+.mountain {
+    height: 195px;
+    width: 400px;
+}
+
+/* Profile */
+
+.profile {
+    margin: 0em;
+    padding: 100px;
+}
+
+.me {
+    align-items: center;
+    border-radius: 150px;
+    display: block;
+    height: 250px;
+    margin: 0px auto 50px auto;
+    padding: 20px;
+    width: 250px;
+}
+
+.text1 {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 28px;
+    font-weight: bolder;
+    line-height: 200%;
+    margin: 0px 400px 0px 400px;
+    text-align: center;
+}
+
+.text {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    line-height: 200%;
+    margin: 0px 400px 0px 400px;
+    text-align: center;
+}
+
+.dots {
+    color: #D5F5E3;
+    font-size: 72px;
+    margin: 0rem;
+    padding: 0rem;
+    text-align: center;
+}
+
+/* My Skills */
+
+
+.skill_head {
+    color: #82E0AA;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 36px;
+    font-weight: bolder;
+    padding-top: 0%;
+    text-align: center;
+}
+
+/* Upflairs */
+
+.upflairs {
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.upflairs_img {
+    float: left;
+    height: 150px;
+    margin: 0px 10px 0px 400px;
+    width: 150px;
+}
+
+.text2 {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    line-height: 200%;
+    margin: 0px 400px 0px 400px;
+    text-align: left;
+}
+
+.text3 {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    line-height: 200%;
+    margin: 0px 400px 0px 400px;
+    text-align: right;
+}
+
+/* Internship */
+
+.internship {
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.internship_img {
+    float: right;
+    height: 150px;
+    margin: 20px 350px 0px 50px;
+    width: 150px;
+}
+
+.text4 {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    line-height: 200%;
+    margin: 50px 0px 0px 400px;
+    text-align: left;
+}
+
+.text5 {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    line-height: 200%;
+    margin: 0px 0px 0px 400px;
+    text-align: left;
+}
+
+/* Get In Touch */
+
+.git {
+    padding: 80px;
+}
+
+.text6 {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 24px;
+    line-height: 200%;
+    margin: 10px 400px 0px 400px;
+    text-align: center;
+}
+
+.text7 {
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 14px;
+    line-height: 200%;
+    margin: 20px 400px 50px 400px;
+    text-align: center;
+}
+
+.button {
+    background-color: #A569BD;
+    border-radius: 20px;
+    color: #FCF3CF;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    padding: 15px 20px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 550px;
+    text-decoration: none;
+}
+
+/* Footer */
+
+.footer {
+    padding: 10px;
+}
+
+.icon {
+    align-items: center;
+    border-radius: 30px;
+    display: inline-block;
+    height: 50px;
+    margin: 50px 50px 10px 100px;
+    width: 50px;
+}
+
+.foot_text { 
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    line-height: 200%;
+    margin: 20px 400px 0px 400px;
+    text-align: center;
+}
+
+.copyright {
+    color: white;
+    height: 12px;
+    margin-top: 30px;
+    width: 12px;
+}
